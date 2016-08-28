@@ -5,6 +5,9 @@ Laravel Notable Libraries contains a list of libraries or packages i have come a
 * JWT-Auth - https://github.com/tymondesigns/jwt-auth
 * Laravel Socialite (Social Authentication e.g facebook/twitter) - https://github.com/laravel/socialite
 
+## Administration
+* Laravel Panel - http://laravelpanel.com/
+
 ## API
 * Dingo API - https://github.com/dingo/api
 
@@ -12,4 +15,5 @@ Laravel Notable Libraries contains a list of libraries or packages i have come a
 * Laravel Hackathon Starter - https://github.com/unicodeveloper/laravel-hackathon-starter
 * Laravel API Boilerplate (JWT Edition) - https://github.com/francescomalatesta/laravel-api-boilerplate-jwt
 
-## 
+## Miscellaneous
+* Laravel Mentions - https://github.com/unicodeveloper/laravel-mentions
