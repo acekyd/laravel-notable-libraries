@@ -4,6 +4,9 @@ Laravel Notable Libraries contains a list of libraries or packages i have come a
 ## Authentication
 * 
 
+## API
+* Dingo API - https://github.com/dingo/api
+
 ## Boilerplates
 * Laravel Hackathon Starter - https://github.com/unicodeveloper/laravel-hackathon-starter
 * Laravel API Boilerplate (JWT Edition) - https://github.com/francescomalatesta/laravel-api-boilerplate-jwt
