@@ -2,7 +2,7 @@
 Laravel Notable Libraries contains a list of libraries or packages i have come across that serve one purpose or the other and serve it great
 
 ## Authentication
-* 
+* JWT-Auth - https://github.com/tymondesigns/jwt-auth
 
 ## API
 * Dingo API - https://github.com/dingo/api
