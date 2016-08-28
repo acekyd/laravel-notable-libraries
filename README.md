@@ -1,11 +1,11 @@
 # laravel-notable-libraries
-Laravel Notable Libraries contains a list of libraries or packages i have come across that serve one purpose or the other and serve it great
+Laravel Notable Libraries contains a list of libraries or packages i have come across that serve one purpose or the other and serve it great. Please contribute as you come across great, useful and working packages. Thanks
 
 ## Authentication
 * JWT-Auth - https://github.com/tymondesigns/jwt-auth
 * Laravel Socialite (Social Authentication e.g facebook/twitter) - https://github.com/laravel/socialite
 
-## Administration
+## Admin
 * Laravel Panel - http://laravelpanel.com/
 
 ## API
@@ -17,3 +17,4 @@ Laravel Notable Libraries contains a list of libraries or packages i have come a
 
 ## Miscellaneous
 * Laravel Mentions - https://github.com/unicodeveloper/laravel-mentions
+* Laravel Passwords - https://github.com/unicodeveloper/laravel-password
