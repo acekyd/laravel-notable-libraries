@@ -3,6 +3,7 @@ Laravel Notable Libraries contains a list of libraries or packages i have come a
 
 ## Authentication
 * JWT-Auth - https://github.com/tymondesigns/jwt-auth
+* Laravel Socialite (Social Authentication e.g facebook/twitter) - https://github.com/laravel/socialite
 
 ## API
 * Dingo API - https://github.com/dingo/api
